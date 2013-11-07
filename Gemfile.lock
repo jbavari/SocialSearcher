@@ -1,3 +1,10 @@
+GIT
+  remote: git@github.com:jbavari/SocialSearchRailsEngine.git
+  revision: 5583d8fd5bff3fa38318c1dd2500cc9e2c0e13e1
+  specs:
+    social_search_rails_engine (0.0.1)
+      rails (~> 4.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -114,6 +121,7 @@ DEPENDENCIES
   rails (= 4.0.1)
   sass-rails (~> 4.0.0)
   sdoc
+  social_search_rails_engine!
   sqlite3
   turbolinks
   uglifier (>= 1.3.0)
